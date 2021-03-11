@@ -2,7 +2,7 @@
 This repo contains code assignment for the willow company. There are module built for the 3 questions asked. All are called in the index.js for easy to use.
 
 ## Notes
-1. As there was no mentioned of using deploying or using the command line or input via api call, have harcoded the input which we can change, to test it out while review.
+1. As there was no mention of deploying or using the command line or input via api call, i have harcoded the input which we can change, to test it out while review.
 
 
 ## To run the program 
